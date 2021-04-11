@@ -1,6 +1,6 @@
 # Program_to_configure_cisco_devices
 
-This is a python program that uses paramiko module to connect to cisco devices one at a time and shows the present configuration. Then, it gives a menu to help configure the devices using information from CDP protocol.
+This is a python program that uses paramiko module to connect to cisco devices one at a time and shows the present configuration. Then, it gives a menu to help configure the devices using the information from CDP protocol.
 
 This program does a number of things :
 
